@@ -14,7 +14,7 @@ ASI 插件，修复《死亡空间》(Dead Space, 2008) 在现代 Windows 上的
 | **窗口自动居中** | 启动和切换分辨率时自动居中窗口 |
 | **窗口始终置顶** | 可选 |
 | **INI 自动恢复** | 配置文件丢失自动重建 |
-| **自动创建joypad.txt** | 修复了 Stuck at asteroid cannon section in chapter 4 (glitch)-Cursor gets stuck up. |
+| **自动创建joypad.txt** | 修复第四章小行星炮台部分卡住 |
 
 ## 支持的EXE版本
 
