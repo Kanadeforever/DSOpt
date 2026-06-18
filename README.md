@@ -74,7 +74,7 @@ cl.exe /nologo /utf-8 /O2 /MT /LD /GS- /std:c++17 /I"src\common" src\ds_opt\ds_o
 
 - [mafril](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) 和 [Zanzer](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) 提供的CheatEngine 表找到了字幕缩放关键地址
 - [MarkerPatch](https://github.com/Wemino/MarkerPatch) 启发了本项目
-
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
 
 ## 许可
 
