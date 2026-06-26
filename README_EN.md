@@ -1,6 +1,10 @@
 # DSOpt
 
+[中文](README.md) | English
+
 ASI plugin fixing various issues in Dead Space (2008) on modern Windows.
+
+---
 
 ## Features
 
