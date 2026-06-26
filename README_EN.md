@@ -79,7 +79,8 @@ cl.exe /nologo /utf-8 /O2 /MT /LD /GS- /std:c++17 /I"src\common" src\ds_opt\ds_o
 - [mafril](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) and [Zanzer](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) — CheatEngine tables that provided the key subtitle scaling address
 - [MarkerPatch](https://github.com/Wemino/MarkerPatch) — inspiration for this project
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) inspiration for borderless window mode
-- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
+- [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) — this mod's loader
+- DeepSeek — The existence that lends people wings
 
 ## License
 
