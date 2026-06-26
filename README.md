@@ -1,6 +1,10 @@
 # DSOpt
 
+中文 | [English](README_EN.md)
+
 ASI 插件，修复《死亡空间》(Dead Space, 2008) 在现代 Windows 上的各类问题。
+
+---
 
 ## 功能
 
