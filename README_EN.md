@@ -74,7 +74,7 @@ call "C:\Program Files\Microsoft Visual Studio\18\Community\VC\Auxiliary\Build\v
 cl.exe /nologo /utf-8 /O2 /MT /LD /GS- /std:c++17 /I"src\common" src\ds_opt\ds_opt.cpp /link kernel32.lib user32.lib /SUBSYSTEM:WINDOWS /MACHINE:X86 /OUT:DSOpt.asi
 ```
 
-## Credits
+## Acknowledgments
 
 - [mafril](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) and [Zanzer](https://fearlessrevolution.com/viewtopic.php?f=4&t=18320) — CheatEngine tables that provided the key subtitle scaling address
 - [MarkerPatch](https://github.com/Wemino/MarkerPatch) — inspiration for this project
