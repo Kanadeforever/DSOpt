@@ -1,3 +1,10 @@
+# 自定义
+archive/
+build/
+logs/
+scripts/
+temp/
+
 # Build artifacts
 *.obj
 *.exp
